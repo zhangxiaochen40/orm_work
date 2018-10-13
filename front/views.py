@@ -56,4 +56,5 @@ def index5(request):
 def index6(request):
     # 查询学过黄老师所教的所有科的同学的id和姓名
 
+    
     return HttpResponse('success')
